@@ -1,7 +1,7 @@
 # SPAM_DETECTION_
 
 
-Description:
+**Description:**
 
 
 The Spam Detection System is a machine learning project aimed at identifying and filtering out spam emails. 
@@ -10,7 +10,7 @@ analyzes email content to differentiate between legitimate messages and spam. By
 of spam behavior.
 
 
-Data Preprocessing: 
+**Data Preprocessing: **
 
 
 Clean and preprocess email data to extract relevant features and convert text into a format suitable for machine learning algorithms.
@@ -20,7 +20,7 @@ Model Evaluation: Evaluate the performance of the trained model using metrics su
 Deployment: Integrate the trained model into an application or service, allowing users to submit emails for spam detection in real-time.
 Continuous Improvement: Implement mechanisms for feedback collection to continuously improve the model's accuracy and effectiveness over time.
 
-Technologies Used:
+**Technologies Used:**
 
 Python
 
