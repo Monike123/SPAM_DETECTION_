@@ -10,7 +10,7 @@ analyzes email content to differentiate between legitimate messages and spam. By
 of spam behavior.
 
 
-**Data Preprocessing: **
+**Data Preprocessing:**
 
 
 Clean and preprocess email data to extract relevant features and convert text into a format suitable for machine learning algorithms.
